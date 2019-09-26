@@ -8,7 +8,7 @@ class Car(Vehicle):
 
     def music(self, sing):
         return'boom boom poww!!!' + sing
-    def horn(self): 
+    def horn(self):
         return'Beep Beep'
     def lock(self):
         return'tik tik'
